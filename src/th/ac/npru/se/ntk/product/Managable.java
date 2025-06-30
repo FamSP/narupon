@@ -1,7 +1,7 @@
 package th.ac.npru.se.ntk.product;
 
 /**
- * The {@code Managable} interface defines the standard operation for managing entities,
+ * The {@code Manageable} interface defines the standard operation for managing entities,
  * such as deleting by a specific identifier.
  * 
  * Classes that implement this interface should provide logic for deleting an entity 
